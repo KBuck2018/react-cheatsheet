@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-* [Reusable Components](www.google.com)
-* [component lifecycle](www.google.com)
-* [React-Router](www.google.com)
+* [Reusable Components](https://github.com/KBuck2018/react-cheatsheet/blob/master/Reusable%20Components.md)
+* [component lifecycle](https://github.com/KBuck2018/react-cheatsheet/blob/master/Component%20Lifecycle.md)
+* [React-Router](https://github.com/KBuck2018/react-cheatsheet/blob/master/react-router.md)
 * [build a mern app](www.google.com)
